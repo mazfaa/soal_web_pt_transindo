@@ -1,0 +1,4 @@
+1. Untuk mendapatkan array 'namaruangan' dengan 'jumlahpasien', tambahkan key dan value berikut -> ruangan=(namaruangan)
+2. Untuk mendapatkan array 'namadokter' dengan 'jumlahpasien', tambahkan key dan value berikut -> dokter=(namadokter)
+3. Untuk mendapatkan jumlah huruf pasien, tambahkan key dan value berikut -> pasien=(namapasien)
+4. Untuk memunculkan pasien dan tanggal registrasinya, tambahkan key dan value berikut -> reg=(namapasien)
